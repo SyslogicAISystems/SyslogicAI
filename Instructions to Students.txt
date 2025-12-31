@@ -1,0 +1,44 @@
+Dear Y9s,
+ 
+1) Key in the code for the homepage document and call it index.html
+2) Key in the code for the header and call it header.html
+3) Key in the code for the directory document and call it directory.html
+4) Enter the new code for artificial intelligence and call it AI.html
+5) Enter the new code for driverless cars and call it driverless.html
+6) Enter the new code for electric cars and call it ElectricCars.html
+7) Enter the new code for robotics and call it robotics.html
+8) Enter the new code spinal cord injury and call it SCI.html
+9) Enter the new code for 3D Printed Homes and call it 3DPrintedHomes.html
+
+10) Find 4 images of spinal cord injury and call it 1.jpg, 2.jpg, 3.jpg, 4.jpg
+11) Find 2 images of spinal cord injury and call it sci1.jpg and sci2.jpg
+12) Find a long header of spinal cord injury and call it header1.jpg
+
+13) Find 4 images of electric cars and call it s.jpg, x.jpg, y.jpg, model3.jpg
+14) Find 2 images of electric cars an call it tesla1.jpg and tesla.2.jpg
+15) Find a long header on electric cars and call it header2.jpg
+
+16) Find 4 images of 3D Printed Homes and call it 5.jpg, 6.jpg, 7.jpg, 8.jpg
+17) Find 2 images of 3D Printed Homes and call it 3d1.jpg and 3d2.jpg
+18) Find a long header of 3D Printed Homes and call it header3.jpg
+
+19) Find 4 images of Robotics in Restaurants and call them 9.jpg, 10.jpg, 11.jpg, 12.jpg
+20) Find 2 more images of Robotics in Restaurants and call it R1.jpg and R2.jpg
+21) Find a long header of Robotics in Restaurants and call it header4.jpg
+
+22 Find 4 images of the Dangers of Artificial Intelligence and call it 13.jpg, 14.jpg, 15.jpg, 16.jpg
+23) Find 2 more images of the Dangers of Artificial Intelligence and call it AI1.jpg and AI2.jpg
+24) Find a long header of the Dangers of Artificial Intelligence and call it header5.jpg
+
+25) Find 4 images Driverless Cars and call it audi.jpg, bmw.jpg, mercedes.jpg, tesla.jpg
+26) Find 2 more images of driverless cars and call it driverless1.jpg and driverless2.jpg
+27) Find a long header of driverless cars and call it header6.jpg
+
+28) Find an image on Artificial Intelligence for your directory and call it directory.jpg
+29) Find an image of nightsky and call it nightsky.jpg. This image will be used as a background for your directory. 
+30) Find a fairly large image of robots and call it robots.jpg
+
+Enjoy your website design! 
+
+Kind regards
+DR NORRIS 
